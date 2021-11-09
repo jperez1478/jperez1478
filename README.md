@@ -6,7 +6,7 @@ Born In Mexico 🇲🇽,
 I came to the U.S at age four,
 Kinder -5th i was in ESL classes allowing me to be bilingual in spanish and english. 
 
-I always been a motivated persistent person. As a first generation latina engineer student ive learned that  only we are our own drive how we wish to shape our future and that is by first being persistent and giving back to the community as i pick up knowdle on software development. 
+I always been a motivated persistent person. As a first generation latina engineer student ive learned that  only we are our own drive how we wish to shape our future and that is by first being persistent and giving back to the community as I gain profesional skills and knowdlege in  software development. 
 
 
 ## Technical Skills 
