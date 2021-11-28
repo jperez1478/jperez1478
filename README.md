@@ -8,7 +8,7 @@ I came to the U.S at age four,
 
  Bilingual in spanish and english. 
 
-I always been a motivated persistent person. As a first generation latina engineer student ive learned that  only we are our own drive how we wish to shape our future and that is by first being persistent in what we wish to accomplosh. I thrive by giving back to the community as I gain profesional skills and knowdlege in  software development. 
+I always been a motivated persistent person. As a first generation latina engineer student ive learned that  only we are our own drive how we wish to shape our future and that is by first being persistent in what we wish to accomplish. I thrive by giving back to the community as I gain profesional skills and knowdlege in  software development. 
 
 ![1637111652826](https://user-images.githubusercontent.com/61983873/143731151-8118aa11-4dc3-4c07-93a2-7b7a37ee396f.jpeg)
 
