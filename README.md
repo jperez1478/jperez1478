@@ -24,13 +24,11 @@ I always been a motivated persistent person. As a first generation latina engine
 - Software Carpentry Skills Certificate 
 
 
-🌱 I’m currently a senior studying Computer science degree at Prairie View A&M 
+🌱 I’m currently a Software Engineer for Dell Technologies 
 
 
 ## Current Job Position 
 iOS Developer for TSU HBCU C2 Team 
-Research Assistant at PVAMU Computer Science in iCare Development. 
-President of SIGIoT at PVAMU 
 - 💞️ I’m looking to collaborate on any open projects I an also will be posting projects that I learn through my iOS Journey ...
 - 📫 How to reach me ...
 
