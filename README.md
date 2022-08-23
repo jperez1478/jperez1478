@@ -31,6 +31,8 @@ I always been a motivated persistent person. As a first generation latina engine
 
 ## Current Job Position 
 iOS Developer for TSU HBCU C2 Team 
+https://www.hbcuc2.org/appdevteam
+
 - 💞️ I’m looking to collaborate on any open projects I an also will be posting projects that I learn through my iOS Journey ...
 - 📫 How to reach me ...
 
