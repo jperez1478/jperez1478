@@ -23,6 +23,8 @@ I always been a motivated persistent person. As a first generation latina engine
 - Operating System
 - Software Carpentry Skills Certificate 
 
+<img width="200" alt="Screen Shot 2022-08-22 at 8 14 15 PM" src="https://user-images.githubusercontent.com/61983873/186046827-5ef3ed45-d319-457a-b5f4-88cb7081139a.png">
+
 
 🌱 I’m currently a Software Engineer for Dell Technologies 
 
