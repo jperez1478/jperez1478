@@ -29,17 +29,11 @@ I always been a motivated persistent person. As a first generation latina engine
 🌱 I’m currently a Software Engineer for Dell Technologies 
 
 
-## Current Job Position 
-iOS Developer for TSU HBCU C2 Team 
-https://www.hbcuc2.org/appdevteam
-
-- 💞️ I’m looking to collaborate on any open projects I an also will be posting projects that I learn through my iOS Journey ...
-- 📫 How to reach me ...
 
 Email : jesssoftwaredev@gmail.com
 
 
-LinkedIn: https://www.linkedin.com/in/jessica-perez-b99b3b191/
+
 
 
 <!---
